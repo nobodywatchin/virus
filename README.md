@@ -1,10 +1,15 @@
 
-# Talon
+# Virus
 
-> [!NOTE]
-> All of our free software is designed to respect your privacy, while being as simple to use as possible. Our free software is licensed under the [BSD-3-Clause license](https://ravendevteam.org/files/BSD-3-Clause.txt). By using our software, you acknowledge and agree to the terms of the license.
+Virus is an open-source system optimization tool designed to remove bloatware, restrict telemetry, and give you full control over your operating system. Unlike traditional antivirus software, Virus doesn't run in the background or slow down your system—it only runs when you tell it to, removing the real threats: spyware, forced updates, and unnecessary features.
+⚡ Features
 
-Simple utility to debloat Windows in 2 clicks.
+    🚀 Remove Bloatware – Get rid of unnecessary apps and services.
+    🔒 Privacy First – Disable telemetry, tracking, and invasive system features.
+    🛠 System Customization – Remove Cortana, Edge, Siri, and other locked-down features.
+    💾 Protocol & Filesystem Tweaks – Remove SMB, add NFS, enable EXT4 support on Windows.
+    🦠 Manual Antivirus – No bloat, no background scans—just run Virus when you want to check for threats.
+    🧬 Parasite Mode (Experimental) – Run a WSL-based Kubernetes worker node for Linux integration.
 
 Made for Windows 11.
 
